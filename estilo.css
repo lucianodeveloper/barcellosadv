@@ -6,8 +6,8 @@
     font-family: 'Roboto',sans-serif;
 }
 body{
-    background: rgb(8, 7, 33);
-background: linear-gradient(188deg, rgb(117, 110, 237) 0%, rgb(228, 248, 113) 100%, rgb(237, 241, 242) 100%);
+    background: rgb(255, 255, 255);
+    background: -moz-linear-gradient (188deg, rgb(117, 110, 237) 0%, rgb(228, 248, 113) 100%, rgb(237, 241, 242) 100%);
     min-height: 100vh;
 }
 .container{
